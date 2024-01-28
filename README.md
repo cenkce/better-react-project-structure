@@ -1,5 +1,6 @@
 # React + TypeScript + Vite
-## Install
+
+## Installation Latest Yarn on VsCode
 
 1. install `https://marketplace.visualstudio.com/items?itemName=arcanis.vscode-zipfs`
 2. `yarn`
